@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_TAGSEARCH_TAGSEARCH_VIEW_DEFAULT_TITLE">
+		<message>COM_TAGSEARCH_TAGSEARCH_VIEW_DEFAULT_DESC</message>
+	</layout>
+	<fields
+		name="request"
+		addfieldpath="/administrator/components/com_tagsearch/models/fields"
+	>
+		<fieldset name="request">
+			<field
+				name="id"
+				type="tagsearch"
+				label="COM_TAGSEARCH_TAGSEARCH_FIELD_CATEGORY"
+				description="COM_TAGSEARCH_TAGSEARCH_CATEGORY"
+			/>
+		</fieldset>
+	</fields>
+</metadata>
+
